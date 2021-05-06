@@ -17,7 +17,7 @@ package gographviz
 import (
 	"fmt"
 
-	"github.com/awalterschulze/gographviz/ast"
+	"github.com/icholy/gographviz/v2/ast"
 )
 
 type writer struct {

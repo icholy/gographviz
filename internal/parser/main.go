@@ -21,8 +21,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/awalterschulze/gographviz/ast"
-	"github.com/awalterschulze/gographviz/internal/lexer"
+	"github.com/icholy/gographviz/v2/ast"
+	"github.com/icholy/gographviz/v2/internal/lexer"
 )
 
 //Parses a DOT string and outputs the
